@@ -1,0 +1,42 @@
+.container {
+    max-width: 1000px; /* Increased max-width */
+    margin: 50px auto;
+    padding: 40px; /* Increased padding */
+    border-radius: 10px; /* Increased border-radius */
+    background: linear-gradient(to bottom right, #007bff, #0056b3); /* Gradient background */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Increased box shadow */
+   margin-top: 10%;
+  }
+  
+  /* Rest of your existing CSS styles */
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 10px; /* Increased padding */
+    margin-bottom: 20px; /* Increased margin */
+  }
+  
+  button {
+    padding: 10px 20px; /* Increased padding */
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px; /* Increased margin */
+  }
+  
+  .file-input {
+    margin-top: 30px; /* Increased margin */
+  }
+body{
+
+    background-color: aqua;
+}  
